@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImg from '../assets/HeroImg.webp'
+// import HeroImg from '../assets/HeroImg.webp'
 import Darkbtn from './darkbtn'
 
 
@@ -18,7 +18,7 @@ function Herosec() {
         
       </div>
       <div className=' flex justify-center items-center '>
-        <img className='w-[500px] h-[400px] rounded-2xl' src={HeroImg} alt="" />
+        {/* <img className='w-[500px] h-[400px] rounded-2xl' src={HeroImg} alt="" /> */}
       </div>
 
 
